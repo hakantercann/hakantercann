@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hakantercann
 - 👀 I’m interested in Embedded Systems. 
-- 🌱 I’m currently learning Python, Cisco Packet Tracer, C and Arduino
+- 🌱 I’m currently learning Python, Cisco Packet Tracer, C and Atmega328p
+-
 - 📫 How to reach me hakantercan19@gmail.com, /in/hakantercann/
 
 <!---
