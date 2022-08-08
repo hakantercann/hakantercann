@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems. 
 - 🌱 I’m currently learning Python, Cisco Packet Tracer, C and Atmega328p
 -
-- 📫 How to reach me hakantercan19@gmail.com, /in/hakantercann/
+- 📫 How to reach me /in/hakantercann/
 
 <!---
 hakantercann/hakantercann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
