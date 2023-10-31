@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakantercann
-- 👀 I’m interested in Embedded Systems. 
+- 👀 I’m interested in Embedded Systems and SCADA System. 
 - 🌱 I’m currently learning Python, Cisco Packet Tracer, C and Atmega328p
 -
 - 📫 How to reach me /in/hakantercann/
